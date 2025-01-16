@@ -1,0 +1,40 @@
+h1{
+    color: aqua;
+}
+#ids{
+    margin-top: 80px;
+    text-align: center;
+}
+.myid{
+    margin-bottom: 25px;
+}
+.box{
+    margin-left: 30px;
+    color: #b26e14;
+    height: 150px;
+    width: 150px;
+    font-size: 50px;
+    border-radius: 20px;
+    background-color: #fffc7f;
+}
+#reset_button{
+    color: white;
+    text-align: center;
+    background-color: black;
+    margin-left: 740px;
+    border-radius: 30px;
+}
+body{
+    background-color: #068856;
+}
+p{
+    color:#fffc7f;
+    text-align: center;
+}
+#my_id{
+    text-align: center;
+    display: none;
+}
+#msg{
+    font-size: 50px;
+}
